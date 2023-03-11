@@ -1,0 +1,12 @@
+when we have tomtrack one one file
+git add <filename>
+
+
+when we want to track all file then we use
+git add .
+git add -A they both work same
+
+
+git status command 
+
+
